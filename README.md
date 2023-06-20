@@ -1,16 +1,25 @@
-### Hi there 👋
+## Greetings 👋
 
-<!--
-**SpasicU/SpasicU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I aspire to leverage my skills and experience to contribute to tangible real-world projects. 
 
-Here are some ideas to get you started:
+🎓 Graduated from: [Information Techonolgy School - ITS](https://eng.its.edu.rs/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages and Tools 
+• HTML & CSS <br>
+• JavaScript <br>
+• PHP <br>
+• Bootstrap <br>
+• SQL (MS SQL server, MySQL) <br>
+• Git / GitHub <br>
+• C# <br>
+• .NET Framework <br>
+• Windows Presentation Foundation (WPF) <br>
+• XML language<br>
+• ASP.NET & ADO.NET  <br>
+• Basics of Laravel i React <br>
+
+---
+> "Waste no more time arguing about what a good man should be. Be one."
+
+— Marcus Aurelius
+
