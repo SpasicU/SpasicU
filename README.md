@@ -1,10 +1,10 @@
-## Greetings 👋
+# Greetings 👋
 
 I aspire to leverage my skills and experience to contribute to tangible real-world projects. 
 
 🎓 Graduated from: [Information Techonolgy School - ITS](https://eng.its.edu.rs/)
 
-#### Languages and Tools 
+### Languages and Tools 
 • HTML & CSS <br>
 • JavaScript <br>
 • PHP <br>
